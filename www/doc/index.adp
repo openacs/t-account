@@ -1,7 +1,13 @@
 <master>
 
 <hr>
-This is right now combined requirements and design doc; 
-so far all I got is a possible picture of my data model:
-<p>
-<img src="datamodel.png">
+This is right now combined requirements and design doc.
+<ul>
+<li>Requirements
+<li>Design
+  <ul>
+  <li>Data Model
+      <p>
+      <img src="datamodel.png">
+  </ul>
+</ul>
