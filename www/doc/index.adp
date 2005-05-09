@@ -13,6 +13,9 @@ package. This package has the following primary functions:
 <ul>
 <li>It allows applications to post, read, display and aggregate 
     financial transactions and other financial data.
+<li>In the posting of a single financial transaction, it ensures that
+    the incoming data is valid, primarily by ensuring that the sum of
+    all debits is equal to the sum of all credits.
 <li>It gives administrators the ability to run standard reports on this data.
 <!-- <li>It offers a convenient repository for and the ability to run reports on data of this sort. -->
 <li>It allows us to monitor the usage of financial data.
