@@ -18,7 +18,7 @@ package. This package has the following primary functions:
 <li>It allows us to monitor the usage of financial data.
 <li>It allows for the data to be on a separate database for security purposes.
 </ul>
-
+<p>
   <li>
 Vision statement
 <p>
